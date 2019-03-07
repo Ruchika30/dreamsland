@@ -1,0 +1,45 @@
+body{
+	background-color: #023a73;
+
+}
+
+
+
+
+.btn-register {
+	background-color: #ffe507;
+	outline: none;
+	color: yellow;
+	/* font-size: 14px; */
+ 	height: auto; 
+	font-weight: normal;
+	padding: 20px;
+	text-transform: uppercase;
+	border-color: #1CB94A;
+	width: 100%;
+	margin-top: 70px;
+
+}
+
+.img{
+	background-color: green;
+}
+
+.imagethis{
+width:100%;
+text-align:center;
+}
+
+
+/*
+.btn-register:hover,
+.btn-register:focus {
+	color: #fff;
+	background-color: #1CA347;
+	border-color: #1CA347;
+}
+
+*/
+/*button*/
+
+
